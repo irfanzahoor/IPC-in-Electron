@@ -1,0 +1,14 @@
+{
+  "name": "render-to-main-one-way",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+"start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "electron": "^33.2.1"
+  }
+}
